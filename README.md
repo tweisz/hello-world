@@ -1,3 +1,3 @@
 # hello-world
-First repository
+First repository.
 This is a read me file.
